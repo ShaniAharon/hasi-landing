@@ -771,3 +771,11 @@ img {
 .form__input:focus {
   border: 1.5px solid var(--first-color);
 }
+
+.contact__description {
+  direction: rtl;
+}
+
+.contact__button {
+  direction: rtl;
+}
